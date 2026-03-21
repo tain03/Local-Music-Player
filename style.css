@@ -142,7 +142,9 @@ button {
   align-items: center;
   gap: var(--space-sm);
   margin-bottom: var(--space-xl);
-  color: var(--color-cta);
+
+  color: #2c2c2c;
+  /* xám đậm, dễ nhìn hơn đen */
 }
 
 .logo-text {
